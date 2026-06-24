@@ -101,7 +101,7 @@ Subscription economics live or die on **churn** and **visit frequency**. CinePas
 
 *All figures are synthetic and illustrative, generated from the internally consistent model in `CinePass_Financial_Model.xlsx`.*
 
-- **Month-12 MRR:** ~**$130,300** → **~$1.56M ARR run-rate**
+- **Month-12 MRR:** \~**$130,300** → **~$1.56M ARR run-rate**
 - **Year-1 subscription revenue:** ~**$844,500**
 - **Year-1 concession revenue (subscriber footfall):** ~**$1.01M**
 - **Year-1 net program contribution:** ~**$1.30M**
